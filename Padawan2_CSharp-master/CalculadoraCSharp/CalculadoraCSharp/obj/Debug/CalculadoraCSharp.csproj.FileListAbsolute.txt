@@ -1,0 +1,7 @@
+C:\Users\anton\Desktop\Padawan_CSharp_Calculadora\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe.config
+C:\Users\anton\Desktop\Padawan_CSharp_Calculadora\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe
+C:\Users\anton\Desktop\Padawan_CSharp_Calculadora\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.pdb
+C:\Users\anton\Desktop\Padawan_CSharp_Calculadora\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Padawan_CSharp_Calculadora\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Padawan_CSharp_Calculadora\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.exe
+C:\Users\anton\Desktop\Padawan_CSharp_Calculadora\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.pdb
